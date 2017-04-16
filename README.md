@@ -1,12 +1,33 @@
 # live2d bilibili 33娘
 # 这是一个关于live2d 33娘的一个备忘  
+<pre>
 今天无意间进了bilibili的一个直播间，  
 无意间看见一个好像伪春菜的一个33娘，超级喜欢。   
 于是嘛，当然是拿下来咯。  
 2233娘都可以组合出7套套装,4套表情.
+</pre>
+<pre>
+说明一下:
 
+Live2D Config Generator
+├─Live2D Config Generator
+├─Sample
+├─live2d.pro_xp510.apk
+└─Sample.lpk
 
-
+Live2D Config Generator
+    ├──22                          :整理好的22娘的moc png mtn 文件。
+    ├──33                          :整理好的22娘的moc png mtn 文件。
+    ├──Live2D Config Generator     :live2dviewerex pro相关
+    │  ├──Live2D Config Generator  :live2d 主文件
+    │  ├──Sample                   :live2d 转换原文件
+    │  ├──live2d.pro_xp510.apk     :live2dviewerex pro
+    │  └──Sample.lpk               :live2dviewerex pro包装好的配置文件
+    └──Live2DViewer                :可在pc端察看live2d工具
+       ├──Live2DViewer2.2.10.air   :主工具
+       └──air16_win.exe            :需要先安装此。
+    在Live2DViewer文件下
+</pre>
 
 
 以下是抓起的真实地址以及备注
