@@ -6,15 +6,8 @@
 于是嘛，当然是拿下来咯。  
 2233娘都可以组合出7套套装,4套表情.
 </pre>
+文件目录说明一下:
 <pre>
-说明一下:
-
-Live2D Config Generator
-├─Live2D Config Generator
-├─Sample
-├─live2d.pro_xp510.apk
-└─Sample.lpk
-
 Live2D Config Generator
     ├──22                          :整理好的22娘的moc png mtn 文件。
     ├──33                          :整理好的22娘的moc png mtn 文件。
