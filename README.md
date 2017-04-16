@@ -6,6 +6,14 @@
 于是嘛，当然是拿下来咯。  
 2233娘都可以组合出7套套装,4套表情.
 </pre>
+最简单的使用；
+<pre>
+1>下载/Live2DViewer/live2d.pro_xp510.apk
+   和/Live2DViewer/Sample.lpk
+2>安装live2d.pro_xp510.apk并进入：选择资源包导入,选择Sample.lpk
+3>选择一个你喜欢的2233娘吧。
+</pre>
+
 文件目录说明一下:
 <pre>
 Live2D Config Generator
