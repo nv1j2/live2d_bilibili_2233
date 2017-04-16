@@ -3,9 +3,13 @@
 今天无意间进了bilibili的一个直播间，  
 无意间看见一个好像伪春菜的一个33娘，超级喜欢。   
 于是嘛，当然是拿下来咯。  
-2233娘都可以组合出7套套装.  
+2233娘都可以组合出7套套装,4套表情.
 
 
+
+
+
+以下是抓起的真实地址以及备注
 <pre>
 #########################
 #33娘
@@ -85,7 +89,7 @@ http://s1.hdslb.com/bfs/static/blive/live-assets/haruna/22/22.1024/closet.newyea
 http://s1.hdslb.com/bfs/static/blive/live-assets/haruna/22/22.1024/closet.xmas/texture_01.png
 
 #下装:默认
-http://s1.hdslb.com/bfs/static/blive/live-assets/haruna/22/22.1024/closet.cba-normal-2017/texture_02.png
+http://s1.hdslb.com/bfs/static/blive/live-assets/haruna/22/22.1024/closet.default/texture_02.png
 #下装:22娘的下装1
 http://s1.hdslb.com/bfs/static/blive/live-assets/haruna/22/22.1024/closet.cba-normal-2017/texture_02.png
 #下装:22娘的下装2
