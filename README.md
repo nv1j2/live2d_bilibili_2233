@@ -1,4 +1,4 @@
-# live2d bilibili 看板娘2233 22娘 33娘 
+# live2d bilibili 直播间看板娘2233 22娘 33娘 
 # 这是一个关于live2d 2233娘的一个备忘  
 <pre>
 今天无意间进了bilibili的一个直播间，  
