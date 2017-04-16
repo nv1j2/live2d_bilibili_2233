@@ -1,0 +1,20 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"22.moc",
+	"textures":[
+		"texture_00.png",
+		"texture_01.png",
+		"texture_02.png",
+		"texture_03.png"
+	],
+	"motions":{
+		"":[
+			{"file":"22-thanking.mtn"},
+			{"file":"22-touch.mtn"}
+		],
+		"idle":[
+			{"file":"22-idle-01.mtn"},
+			{"file":"22-idle-02.mtn"}
+		]
+	}
+}

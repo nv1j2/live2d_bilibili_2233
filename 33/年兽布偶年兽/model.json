@@ -1,0 +1,20 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"33.moc",
+	"textures":[
+		"texture_00.png",
+		"texture_01.png",
+		"texture_02.png",
+		"texture_03.png"
+	],
+	"motions":{
+		"":[
+			{"file":"33-thanking.mtn"},
+			{"file":"33-touch.mtn"}
+		],
+		"idle":[
+			{"file":"33-idle-01.mtn"},
+			{"file":"33-idle-02.mtn"}
+		]
+	}
+}

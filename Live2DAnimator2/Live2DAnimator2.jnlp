@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!-- JNLP File for Live2DAnimator --> 
+<jnlp 
+  spec="1.0+" 
+  codebase="http://www.cybernoids.jp/live2d/animator2"
+  href="Live2DAnimator2.jnlp"> 
+  <information> 
+    <title>Live2D Animator2</title> 
+    <vendor>CYBERNOIDS CO.,LTD.</vendor> 
+    <homepage href="http://www.cybernoids.jp/live2d/animator2"/>
+    <description>Live2D Animator2</description> 
+    <description kind="short">Live2D Animator2</description> 
+    <icon href="../picts/anim/anim_128.gif" width="128" height="128"/> 
+    <icon href="../picts/anim/anim_64.gif" width="64" height="64"/> 
+    <icon href="../picts/anim/anim_32.gif" width="32" height="32"/> 
+    <icon kind="splash" href="../picts/splash/animator_splash.jpg"/>
+    <offline-allowed/> 
+    <shortcut online="false">
+      <menu submenu="Live2D"/>
+    </shortcut>
+    <association extensions="anp" mime-type="x-application/anp">
+    	<icon href="../picts/anim/file_32.gif" width="32" height="32" />
+	</association>
+
+  </information> 
+
+  <security>
+    <all-permissions/> 
+  </security> 
+
+  
+  <resources> 
+    <j2se version="1.5.0+" href="http://java.sun.com/products/autodl/j2se" initial-heap-size="48m" max-heap-size="1024m" java-vm-args="-Dsun.java2d.d3d=false" /> 
+    <jar href="Live2DAnimator2.1.4.jar"/>
+    <jar href="jdom.jar"/>
+    <jar href="commons-httpclient.jar"/>
+    <jar href="commons-codec.jar"/>
+    <jar href="commons-logging.jar"/>
+    <jar href="jsonic.jar"/>
+	<jar href="jl1.0.1.jar"/>
+	<jar href="mp3spi1.9.5.jar"/>
+	<jar href="tritonus_share-0.3.6.jar"/>
+    <extension name="jogl" href="http://www.cybernoids.jp/live2d/libs/jogl/jogl.jnlp" />
+
+  </resources> 
+  <application-desc main-class="jp.live2d.anime.L2DAnimeApp"> 
+  </application-desc>
+</jnlp> 

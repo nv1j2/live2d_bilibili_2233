@@ -1,0 +1,74 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "haru.moc",
+  "textures": [
+    "haru.1024/texture_00.png",
+    "haru.1024/texture_01.png",
+    "haru.1024/texture_02.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "hit_areas": [
+    {
+      "name": "body",
+      "id": ""
+    }
+  ],
+  "motions": {
+    "idle": [
+      {
+        "file": "motions/idle/haru_idle_01.mtn"
+      },
+      {
+        "file": "motions/idle/haru_idle_02.mtn"
+      },
+      {
+        "file": "motions/idle/haru_idle_03.mtn"
+      }
+    ],
+    "tap_body": [
+      {
+        "file": "motions/tap_body/haru_m_01.mtn"
+      },
+      {
+        "file": "motions/tap_body/haru_m_02.mtn"
+      },
+      {
+        "file": "motions/tap_body/haru_m_03.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "file": "motions/tap/haru_normal_01.mtn",
+        "sound": "motions/tap/haru_normal_01.mp3"
+      },
+      {
+        "file": "motions/tap/haru_normal_02.mtn",
+        "sound": "motions/tap/haru_normal_02.mp3"
+      },
+      {
+        "file": "motions/tap/haru_normal_03.mtn",
+        "sound": "motions/tap/haru_normal_03.mp3"
+      }
+    ]
+  },
+  "expressions": [
+    {
+      "name": "f01.exp.json",
+      "file": "expressions/f01.exp.json"
+    },
+    {
+      "name": "f02.exp.json",
+      "file": "expressions/f02.exp.json"
+    },
+    {
+      "name": "f03.exp.json",
+      "file": "expressions/f03.exp.json"
+    }
+  ],
+  "physics": "physics.json",
+  "pose": "pose.json"
+}

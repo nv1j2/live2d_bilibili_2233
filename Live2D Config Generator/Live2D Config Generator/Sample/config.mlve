@@ -1,0 +1,25 @@
+{
+  "name": "Sample",
+  "id": "Sample",
+  "encrypt": "false",
+  "list": [
+    {
+      "character": "haru",
+      "costume": [
+        {
+          "name": "haru",
+          "path": "haru/haru.model.json"
+        }
+      ]
+    },
+    {
+      "character": "shizuku",
+      "costume": [
+        {
+          "name": "shizuku",
+          "path": "shizuku/shizuku.model.json"
+        }
+      ]
+    }
+  ]
+}

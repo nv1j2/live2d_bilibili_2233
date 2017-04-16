@@ -1,0 +1,35 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "shizuku.moc",
+  "textures": [
+    "shizuku.1024/texture_00.png",
+    "shizuku.1024/texture_01.png",
+    "shizuku.1024/texture_02.png",
+    "shizuku.1024/texture_03.png",
+    "shizuku.1024/texture_04.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "motions": {},
+  "expressions": [
+    {
+      "name": "f01.exp.json",
+      "file": "expressions/f01.exp.json"
+    },
+    {
+      "name": "f02.exp.json",
+      "file": "expressions/f02.exp.json"
+    },
+    {
+      "name": "f03.exp.json",
+      "file": "expressions/f03.exp.json"
+    },
+    {
+      "name": "f04.exp.json",
+      "file": "expressions/f04.exp.json"
+    }
+  ]
+}

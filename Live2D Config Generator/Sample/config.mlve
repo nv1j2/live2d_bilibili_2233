@@ -1,0 +1,148 @@
+{
+  "name": "Sample",
+  "id": "Sample",
+  "encrypt": "false",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "22_cba-normal",
+      "character": "22_cba-normal",
+      "costume": [
+        {
+          "name": "22_cba-normal",
+          "path": "22_cba-normal/22_cba-normal.model.json"
+        }
+      ]
+    },
+    {
+      "id": "22_cba-super",
+      "character": "22_cba-super",
+      "costume": [
+        {
+          "name": "22_cba-super",
+          "path": "22_cba-super/22_cba-super.model.json"
+        }
+      ]
+    },
+    {
+      "id": "22_default",
+      "character": "22_default",
+      "costume": [
+        {
+          "name": "22_default",
+          "path": "22_default/22_default.model.json"
+        }
+      ]
+    },
+    {
+      "id": "22_newyear",
+      "character": "22_newyear",
+      "costume": [
+        {
+          "name": "22_newyear",
+          "path": "22_newyear/22_newyear.model.json"
+        }
+      ]
+    },
+    {
+      "id": "22_vdays",
+      "character": "22_vdays",
+      "costume": [
+        {
+          "name": "22_vdays",
+          "path": "22_vdays/22_vdays.model.json"
+        }
+      ]
+    },
+    {
+      "id": "22_xmas-1",
+      "character": "22_xmas-1",
+      "costume": [
+        {
+          "name": "22_xmas-1",
+          "path": "22_xmas-1/22_xmas-1.model.json"
+        }
+      ]
+    },
+    {
+      "id": "22_xmas-2",
+      "character": "22_xmas-2",
+      "costume": [
+        {
+          "name": "22_xmas-2",
+          "path": "22_xmas-2/22_xmas-2.model.json"
+        }
+      ]
+    },
+    {
+      "id": "33_cba-normal",
+      "character": "33_cba-normal",
+      "costume": [
+        {
+          "name": "33_cba-normal",
+          "path": "33_cba-normal/33_cba-normal.model.json"
+        }
+      ]
+    },
+    {
+      "id": "33_cba-super",
+      "character": "33_cba-super",
+      "costume": [
+        {
+          "name": "33_cba-super",
+          "path": "33_cba-super/33_cba-super.model.json"
+        }
+      ]
+    },
+    {
+      "id": "33_default",
+      "character": "33_default",
+      "costume": [
+        {
+          "name": "33_default",
+          "path": "33_default/33_default.model.json"
+        }
+      ]
+    },
+    {
+      "id": "33_newyear",
+      "character": "33_newyear",
+      "costume": [
+        {
+          "name": "33_newyear",
+          "path": "33_newyear/33_newyear.model.json"
+        }
+      ]
+    },
+    {
+      "id": "33_vdays",
+      "character": "33_vdays",
+      "costume": [
+        {
+          "name": "33_vdays",
+          "path": "33_vdays/33_vdays.model.json"
+        }
+      ]
+    },
+    {
+      "id": "33_xmas-1",
+      "character": "33_xmas-1",
+      "costume": [
+        {
+          "name": "33_xmas-1",
+          "path": "33_xmas-1/33_xmas-1.model.json"
+        }
+      ]
+    },
+    {
+      "id": "33_xmas-2",
+      "character": "33_xmas-2",
+      "costume": [
+        {
+          "name": "33_xmas-2",
+          "path": "33_xmas-2/33_xmas-2.model.json"
+        }
+      ]
+    }
+  ]
+}

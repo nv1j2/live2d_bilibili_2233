@@ -1,0 +1,49 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "22_vdays.moc",
+  "textures": [
+    "22_vdays.1024/texture_00.png",
+    "22_vdays.1024/texture_01.png",
+    "22_vdays.1024/texture_02.png",
+    "22_vdays.1024/texture_03.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "motions": {
+    "idle": [
+      {
+        "file": "motions/idle/22-idle-01.mtn"
+      },
+      {
+        "file": "motions/idle/22-idle-02.mtn"
+      },
+      {
+        "file": "motions/idle/22-thanking.mtn"
+      },
+      {
+        "file": "motions/idle/22-touch.mtn"
+      }
+    ]
+  },
+  "expressions": [
+    {
+      "name": "f01.exp.json",
+      "file": "expressions/f01.exp.json"
+    },
+    {
+      "name": "f02.exp.json",
+      "file": "expressions/f02.exp.json"
+    },
+    {
+      "name": "f03.exp.json",
+      "file": "expressions/f03.exp.json"
+    },
+    {
+      "name": "f04.exp.json",
+      "file": "expressions/f04.exp.json"
+    }
+  ]
+}
